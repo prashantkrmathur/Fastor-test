@@ -1,0 +1,28 @@
+.center {
+  display: grid;
+  place-items: center;
+  margin-top: 50%;
+  padding: 1em;
+}
+
+.back-button {
+    margin: 2em;
+    padding: 1em;
+    border: 3px solid #E8ECF4;
+    border-radius: 23%;
+}
+
+.verification-code{
+    display: flex;
+    justify-content: space-between
+}
+.verify-btn {
+    margin: 1em;
+    width:98%;
+    background-color:#FF6D6A;
+    height:3em
+}
+
+.code-input {
+    width: 20%
+}
